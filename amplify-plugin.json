@@ -1,0 +1,11 @@
+{
+    "name": "sample",
+    "aliases": ["hello-world"],
+    "type": "category",
+    "commands": [
+        "version",
+        "add",
+        "remove",
+        "update"
+    ]
+}

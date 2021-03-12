@@ -1,0 +1,10 @@
+{
+    "sample":{
+       "alias":"AWS Hello World Plugin",
+       "serviceWalkthroughFilename":"sample-push.js",
+       "cfnFilename":"sample.json.ejs",
+       "stackFolder":"sample-stack",
+       "questions":"sample-questions.json",
+       "provider":"awscloudformation"
+    }
+  }
