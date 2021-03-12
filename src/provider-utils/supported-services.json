@@ -1,10 +1,10 @@
 {
-    "sample":{
-       "alias":"AWS Hello World Plugin",
-       "serviceWalkthroughFilename":"sample-push.js",
-       "cfnFilename":"sample.json.ejs",
-       "stackFolder":"sample-stack",
-       "questions":"sample-questions.json",
+    "secret":{
+       "alias":"AWS Secrets Manager",
+       "serviceWalkthroughFilename":"secret-push.js",
+       "cfnFilename":"secret.json.ejs",
+       "stackFolder":"secret-stack",
+       "questions":"secret-questions.json",
        "provider":"awscloudformation"
     }
   }

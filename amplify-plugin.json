@@ -1,6 +1,6 @@
 {
-    "name": "sample",
-    "aliases": ["hello-world"],
+    "name": "secret",
+    "aliases": ["st"],
     "type": "category",
     "commands": [
         "version",

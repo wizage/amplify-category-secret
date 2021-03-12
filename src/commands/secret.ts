@@ -1,4 +1,4 @@
-const featureName = 'sample';
+const featureName = 'secret';
 
 module.exports = {
   name: featureName,

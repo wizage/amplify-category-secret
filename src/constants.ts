@@ -1,1 +1,1 @@
-export const category = 'sample';
+export const category = 'secret';

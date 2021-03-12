@@ -1,4 +1,4 @@
-const fs = require('fs');
+var fs = require('fs');
 const projectMeta = JSON.parse(fs.readFileSync(`${__dirname}/../../../package.json`));
 const subcommand = 'version';
 
